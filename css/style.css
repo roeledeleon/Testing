@@ -1,0 +1,15 @@
+[class^="icon-"],
+[class*=" icon-"] {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+.icon-Client-1a {
+  width: 1.90625em;
+  background-color: blue;
+  fill: black;
+  stroke: black;
+}
