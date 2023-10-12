@@ -1,6 +1,7 @@
 .icon {
   border: 2px solid blue;
 }
-a.icon:hover {
+a.icon:hover,
+a.icon:focus {
   fill: blue;
 }
