@@ -1,7 +1,11 @@
 .icon {
   border: 2px solid blue;
 }
-a.icon:hover,
-a.icon:focus {
-  fill: blue;
+a:hover svg,
+a:focus svg {
+  fill: green;
+}
+a:hover .icon,
+a:focus .icon {
+  border: 2px solid red;
 }
